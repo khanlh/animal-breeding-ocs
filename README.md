@@ -1,4 +1,4 @@
-# Pig Breeding OCS Workflow
+# Animal Breeding OCS Workflow
 
 Breeding selection workflow for pigs: **BLUP results → selection index (SI) → optimum contribution selection & mating (OCS, optiSel)**.
 
