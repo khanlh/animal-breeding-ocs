@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+# dữ liệu & kết quả (không đưa lên GitHub)
+data*/
+*_OCS/
+*.ped
+*.dat
+*.log
+*.xlsx
+*.csv
+*.pdf
